@@ -10,6 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #CF2425;
+    background: linear-gradient(#CF2425, #6a0101 50%, #6a0101 60%, #CF2425);
 }
 
 header, footer {
